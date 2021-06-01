@@ -1,3 +1,3 @@
 # Test Repository
 
-This information comes from a forked repository !
+This information is from a forked repository !
